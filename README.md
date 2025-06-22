@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Dipin Silwal
 
-<!--
-**404dipin/404dipin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student learning programming  
+💻 Currently learning **Python, NumPy, and pandas**  
+📈 Interested in **Data Analytics** and **Machine Learning**  
+🛠️ Working on small Python projects and practicing data handling  
+📫 How to reach me: dipinsilwal4@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Technologies I’m Learning:
+- Python 🐍
+- NumPy,Pandas,matplotlib 📊
+- Git & GitHub 🗂️
+- SQL (basics) 🛢️
