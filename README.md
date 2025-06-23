@@ -1,6 +1,6 @@
 # Hi, I’m Dipin Silwal
 
-### 👨‍💻 A passionate learner intersted in Data Science from Nepal
+### 👨‍💻 A passionate learner interested in Data Science from Nepal
 
 - I’m currently learning **Python, NumPy, pandas, and SQL**
 - How to reach me: dipinsilwal4@gmail.com
