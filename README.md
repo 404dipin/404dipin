@@ -2,7 +2,7 @@
 
 ### 👨‍💻 A passionate learner interested in Data Science from Nepal
 
-- I’m currently learning **Python, NumPy, pandas, and SQL**
+- I’m currently learning **Python, NumPy, pandas, matplotlib and SQL**
 - How to reach me: dipinsilwal4@gmail.com
 
 ### 📱 Connect with me:
